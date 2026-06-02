@@ -1,0 +1,9 @@
+.app {
+    width: 800px;
+    height: 600px;
+    background: linear-gradient(0deg, #f2ebeb80 0%, #faf4f464 100%
+    ),
+    url("./shopping.webp")
+    no-repeat
+    
+}
